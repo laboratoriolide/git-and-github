@@ -30,3 +30,8 @@ Bienvenidos a este pequeño curso de Git y GitHub para investigación científic
 - **Parte 7: Conexión Remota con Git**: Configuración y manejo de conexiones remotas utilizando el comando `git remote`, permitiendo la colaboración con otros desarrolladores.
 
 - **Parte 8: Push y Pull en Git**: Cómo enviar tus cambios locales al repositorio remoto con `git push` y obtener los últimos cambios del repositorio remoto con `git pull`.
+
+## Referencias y repositorios de apoyo
+
+- Basado en https://github.com/aquijanoruiz/Git_GitHub_lecture_ESP.
+- Ejercicio: http://github.com/aquijanoruiz/YRF
