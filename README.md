@@ -34,4 +34,9 @@ Bienvenidos a este pequeño curso de Git y GitHub para investigación científic
 ## Referencias y repositorios de apoyo
 
 - Basado en https://github.com/aquijanoruiz/Git_GitHub_lecture_ESP.
-- Ejercicio: http://github.com/aquijanoruiz/YRF
+- Ejercicios:
+  - http://github.com/aquijanoruiz/YRF
+  - https://github.com/aquijanoruiz/Ejercicio
+  - https://github.com/aquijanoruiz/Ejercicio2
+  - https://github.com/aquijanoruiz/Projecto_Investigacion
+
